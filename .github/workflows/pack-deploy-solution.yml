@@ -20,7 +20,7 @@ jobs:
   build-and-deploy:
     runs-on: windows-latest
     environment:
-        name: 'Sandbox'
+        name: 'MSDDynamicsMinds2024-01'
 
     steps:
       - name: Enable git long paths
